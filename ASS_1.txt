@@ -1,0 +1,15 @@
+1. In Python, object-situated Programming (OOPs) is a programming worldview that utilizations items and classes in programming. It expects to carry out genuine substances like inheritance, polymorphisms, encapsulation, etc. on in the programming.
+
+2. In Python, inheritance happens when an article is qualified and includes looking through a trait definition tree (at least one namespaces). Each time you use an expression of the form object.
+
+3. Instance object inherits the attributes of the class object from which it was created. class object is like a blueprint for intance object but instance object is a concrete item in out code. instance objects are new namespaces, thay start out empty but inherit object attributes that live in class object.
+
+4. The first argument of every class method, including init, is always a reference to the current instance of the class. By convention, this argument is always named self. In the init method, self refers to the newly created object; in other class methods, it refers to the instance whose method was called.
+
+5. The __init__ function is called every time an object is created from a class. The __init__ method lets the class initialize the object's attributes and serves no other purpose. It is only used within classes.
+
+6. The new operator requires a single, postfix argument: a call to a constructor. The name of the constructor provides the name of the class to instantiate. The constructor initializes the new object. The new operator returns a reference to the object it created.
+
+7. A class can be created by using the keyword "class", followed by the class name. We must notice that each class is associated with a documentation string which can be accessed by using <class-name>. __doc__.
+
+8. The class from which a class acquires is known as the parent or superclass. A class which acquires from a superclass is known as a subclass, likewise called beneficiary class or kid class. Superclasses are now and again called precursors also.
